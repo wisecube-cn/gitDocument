@@ -1,0 +1,3 @@
+echo "export ROS_PACKAGE_PATH=~/catkin_ws:${ROS_PACKAGE_PATH}">>~/.bashrc
+echo "export ROS_PACKAGE_PATH=~/biliLesson:${ROS_PACKAGE_PATH}">>~/.bashrc
+. ~/.bashrc
